@@ -1,0 +1,4 @@
+complaint_id,roll_number,date,complaint_text,status
+CMP1785252933,2401cs101,2026-07-28,mess food is not good,Resolved
+CMP1785253315,2401cs88,2026-07-28,please improve the quality of food,Open
+CMP1785253417,2401cs70,2026-07-28,please make sure the mess timing must be at time,Open
